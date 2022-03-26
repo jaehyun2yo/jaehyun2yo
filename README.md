@@ -5,4 +5,4 @@
 ---
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180/)
