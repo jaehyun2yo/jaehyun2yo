@@ -19,5 +19,5 @@ E-mail: jaehyun180note@google.com
 
 BOJ: <a href='https://www.acmicpc.net/user/jaehyun180'>jaehyun180</a>
 
-Tistory: <a href='https://jaehyun2yo.tistory.com/'>재현이의 개발일지</a>
+Tistory: <a href='https://jaehyun2yo.tistory.com/'>개발일지</a>
 
