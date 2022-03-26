@@ -12,6 +12,7 @@
 
 [![jaehyun2yo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaehyun2yo&theme=algolia&layout=compact&custom_title=jaehyun2yo's%20WakaTime)](https://github.com/anuraghazra/github-readme-stats)
 
+
 E-mail: jaehyun180note@google.com
 
 BOJ: <a href='https://www.acmicpc.net/user/jaehyun180'>jaehyun180</a>
