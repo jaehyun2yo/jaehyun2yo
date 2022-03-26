@@ -1,7 +1,6 @@
-- 👋 Hi
-- 👀 I’m want to be front-end enginee
 
-
+# 🧑🏻‍💻FE enginee
+# 프론트엔드 개발자 취준생 
 ---
 
 
