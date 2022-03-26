@@ -1,8 +1,12 @@
 
-## 🧑🏻‍💻FE enginee
+### 🧑🏻‍💻FE enginee
 - 🔥프론트엔드 개발자 취준생🔥
----
+- 📌 I’m currently learning `Typescript`, `Javascript`,`Algorithm with JS`,`React`
 
+
+
+---
+### 📍 My stats
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180)
