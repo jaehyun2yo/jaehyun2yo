@@ -5,8 +5,8 @@
 ---
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180/)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={jaehyun180})](https://solved.ac/{jaehyun180})
 
 [![YWTechIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=YWTechIT&show_icons=true&theme=algolia&custom_title=YWTechIT's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
 
