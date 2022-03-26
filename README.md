@@ -10,7 +10,6 @@
 
 [![jaehyun2yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyun2yo&show_icons=true&theme=algolia&custom_title=jaehyun2yo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![jaehyun2yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyun2yo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 E-mail: jaehyun180note@google.com
