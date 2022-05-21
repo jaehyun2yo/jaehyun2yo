@@ -1,6 +1,6 @@
 
 ### 🧑🏻‍💻FE engineer
-- 🔥프론트엔드 개발자 취준생🔥
+- 프론트엔드 개발자 취준생
 - 📌 I’m currently learning `Typescript`, `Javascript`,`Algorithm with JS`,`React`
 
 
