@@ -8,8 +8,7 @@
 ---
 ### 📍 My stats
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyun180)](https://solved.ac/jaehyun180)
 
 [![jaehyun2yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyun2yo&show_icons=true&theme=algolia&custom_title=jaehyun2yo's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats) 
 
